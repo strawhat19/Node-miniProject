@@ -1,0 +1,18 @@
+{
+  "name": "miniproject",
+  "version": "1.0.0",
+  "description": "mini project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mini",
+    "project"
+  ],
+  "author": "Rakib Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
